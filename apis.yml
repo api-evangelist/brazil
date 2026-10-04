@@ -39,7 +39,6 @@ apis:
   - name: Brazil
     description: "Community driven API for Brazil Public Data"
     humanURL: https://brasilapi.com.br/
-    baseURL: https://brasilapi.com.br/
     tags:
       - Government
     properties:
